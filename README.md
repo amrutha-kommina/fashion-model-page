@@ -1,1 +1,1 @@
-# fashion-page
+# fashion page using HTML, CSS
